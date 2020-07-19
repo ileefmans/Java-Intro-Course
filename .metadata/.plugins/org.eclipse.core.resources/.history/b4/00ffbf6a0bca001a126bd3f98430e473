@@ -1,0 +1,12 @@
+
+public class ExampleOne {
+
+	public static void main(String[] args) {
+		int value = 5;
+		
+		switch(value) {
+		case 5:
+			System.out.println("Case 5");
+		}
+	}
+}
